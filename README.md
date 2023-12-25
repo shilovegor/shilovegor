@@ -7,20 +7,19 @@
 Меня зовут Егор, я начинающий специалист по контролю качества. Я разместил свое портфолио с информацией о знаниях и навыках тестирования, которые я приобрел на курсах по тестированию ПО.
 
 - 📫 Как связаться со мной:
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shilovyoung@gmail.com)
 
-## My CV 
 
-</p>
 <h2>Test Artifacts </h2>
 <p> 
  <ul>
-<li>  <a href="https://github.com/RustamFOX23/Web-shop-testing">Webshop testing</a>  </li>
-<li>  <a href="https://github.com/RustamFOX23/API-testing"> REST and SOAP API testing via Postman </a>   </li>
-<li> <a href="https://github.com/RustamFOX23/MySQL">MySQL</a>   </li>
-<li>  <a href="https://github.com/RustamFOX23/Mobile-Testing"> Android app testing</a>   </li>
-<li> <a href="https://github.com/RustamFOX23/Charles-Proxy">Replacing data with CharlesProxy</a>  </li>
-<li> <a href="https://github.com/RustamFOX23/bash"> Bash </a>  </li>
-<li> <a href="https://github.com/RustamFOX23/GIT"> Git </a> </li>
+<li> <a href="https://github.com/shilovegor/web-shop-testing"> Webshop testing</a>  </li>
+<li> <a href="https://github.com/shilovegor/restsoap"> REST and SOAP API testing via Postman </a>   </li>
+<li> <a href="https://github.com/shilovegor/mysql"> MySQL</a>   </li>
+<li> <a href="https://github.com/shilovegor/mob"> Android app testing</a>   </li>
+<li> <a href="https://github.com/shilovegor/proxy"> Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/shilovegor/Bash"> Bash </a>  </li>
+<li> <a href="https://github.com/shilovegor/Git"> Git </a> </li>
 </ul>
 </p>
 
@@ -106,7 +105,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RustamFox23&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shilovegor&show_icons=true&theme=radical)
 
 ---
 
@@ -114,4 +113,4 @@
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RustamFOX23)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shilovegor)
