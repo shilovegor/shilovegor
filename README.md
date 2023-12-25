@@ -1,10 +1,8 @@
 # Привет, меня зовут Егор!
 
-<div align="center">
-
-![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
-  
-</div>
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ---
 
