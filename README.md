@@ -11,8 +11,14 @@
 Меня зовут Егор, я начинающий специалист по контролю качества. Я разместил свое портфолио с информацией о знаниях и навыках тестирования, которые я приобрел на курсах по тестированию ПО.
 
 - 📫 Как связаться со мной:
+[![LinkedIn Badge](https://img.shields.io/badge/-@RustamBikmukhametov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shilovegor/)
+
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shilovyoung@gmail.com)
 
+
+## My CV 
+
+ 📄[Egor Shylov CV]
 
 <h2>Test Artifacts </h2>
 <p> 
