@@ -19,7 +19,9 @@
 
 ## My CV 
 
- 📄[Egor Shylov CV]
+ 📄[Egor Shylov CV](https://docs.google.com/document/d/1bsys1Pj36_RqosfnASrvk9lgDXXUBQx95DE3pdlrfns/edit?usp=sharing)
+
+
 
 <h2>Test Artifacts </h2>
 <p> 
