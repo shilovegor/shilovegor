@@ -117,7 +117,7 @@
 ---
 ### 📜Certificates:
 
-🔗[QA engineer]()
+🔗[QA engineer](https://drive.google.com/file/d/1JCXDFTPgRIYWT05h85ZjezlznzSueOEM/view?usp=sharing)
 
 
 ---
